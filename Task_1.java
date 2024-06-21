@@ -37,7 +37,7 @@ import java.util.Scanner;
                 }
             }
             if (!correctguess)
-             { // If the user didn't guess correctly within the allowed attempts
+             { 
                 System.out.println("Sorry! You've used all your attempts. The correct number was " + random_num + ".");
             }
 
